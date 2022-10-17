@@ -3,7 +3,7 @@
   "component": {
     "group": "kz.galamat",
     "module": "spring-boot-starter-rabbit-rpc-to-request-dispatcher",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -25,13 +25,13 @@
       },
       "files": [
         {
-          "name": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.1-plain.jar",
-          "url": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.1-plain.jar",
+          "name": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.2-plain.jar",
+          "url": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.2-plain.jar",
           "size": 34515,
-          "sha512": "1bcc9e555e4bdcecb31cd7a850c81e1f54942a96b48e2beff4148c5bbac5a27036171add3cebc27541ee25f2c7630edccfb68ffe8f16920efb944c16c1bb4164",
-          "sha256": "320f79e940e20e170dccbded042189a7badf08988236622f21e4dc0c3937cf21",
-          "sha1": "a67e9a2ea91dcb6d02b5b5b764308c421fafda69",
-          "md5": "8c48e53780808dee8a5955a57c591639"
+          "sha512": "126b31becb4e7dc5c1fd9aeab6c29522ef9daea03c4a5ff6ab7382470ff6f2244ad014a1c1ebb07a68b12143cf13f182814fddad5f7758a69359dcb36e3e12ba",
+          "sha256": "f53039a0e1ca9f31c76f3ffa4d66b7a4fa5714e555f0dc5bf4048fd0b32455e5",
+          "sha1": "d19f6755214b573efd074075df4fcd58826d0445",
+          "md5": "36942c74800d09ed4ba7a0236ec78b48"
         }
       ]
     },
@@ -69,13 +69,13 @@
       ],
       "files": [
         {
-          "name": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.1-plain.jar",
-          "url": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.1-plain.jar",
+          "name": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.2-plain.jar",
+          "url": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.2-plain.jar",
           "size": 34515,
-          "sha512": "1bcc9e555e4bdcecb31cd7a850c81e1f54942a96b48e2beff4148c5bbac5a27036171add3cebc27541ee25f2c7630edccfb68ffe8f16920efb944c16c1bb4164",
-          "sha256": "320f79e940e20e170dccbded042189a7badf08988236622f21e4dc0c3937cf21",
-          "sha1": "a67e9a2ea91dcb6d02b5b5b764308c421fafda69",
-          "md5": "8c48e53780808dee8a5955a57c591639"
+          "sha512": "126b31becb4e7dc5c1fd9aeab6c29522ef9daea03c4a5ff6ab7382470ff6f2244ad014a1c1ebb07a68b12143cf13f182814fddad5f7758a69359dcb36e3e12ba",
+          "sha256": "f53039a0e1ca9f31c76f3ffa4d66b7a4fa5714e555f0dc5bf4048fd0b32455e5",
+          "sha1": "d19f6755214b573efd074075df4fcd58826d0445",
+          "md5": "36942c74800d09ed4ba7a0236ec78b48"
         }
       ]
     }
