@@ -3,15 +3,16 @@
   <groupId>kz.galamat</groupId>
   <artifactId>spring-boot-starter-rabbit-rpc-to-request-dispatcher</artifactId>
   <versioning>
-    <latest>0.0.5.alfa</latest>
-    <release>0.0.5.alfa</release>
+    <latest>0.0.5.beta</latest>
+    <release>0.0.5.beta</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.2</version>
       <version>0.0.3</version>
       <version>0.0.4</version>
       <version>0.0.5.alfa</version>
+      <version>0.0.5.beta</version>
     </versions>
-    <lastUpdated>20221020084452</lastUpdated>
+    <lastUpdated>20221020092638</lastUpdated>
   </versioning>
 </metadata>
