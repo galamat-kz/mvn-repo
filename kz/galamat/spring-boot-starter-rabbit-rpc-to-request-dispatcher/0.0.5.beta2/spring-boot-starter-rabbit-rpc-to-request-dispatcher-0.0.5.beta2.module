@@ -1,0 +1,90 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "kz.galamat",
+    "module": "spring-boot-starter-rabbit-rpc-to-request-dispatcher",
+    "version": "0.0.5.beta2",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.5.beta2-plain.jar",
+          "url": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.5.beta2-plain.jar",
+          "size": 51099,
+          "sha512": "3665a56589b11d624bb3af9662c2ad450f3bdaca3405ffef6b10ff320e911ad99b23eeeb0157c6c168422e6f32bf24d7258527d4037cb892ea955e490b034ec6",
+          "sha256": "8a62b0a4bafc26d60930be6afc7a9d68e7af91e2d7630622cc20bf246d93d232",
+          "sha1": "ff6be766ec567c276433ad82d87baa8c9b501fca",
+          "md5": "c1dcbf73d1df59dde836f84073136ee7"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-amqp",
+          "version": {
+            "requires": "2.7.4"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-web",
+          "version": {
+            "requires": "2.7.4"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-validation",
+          "version": {
+            "requires": "2.7.4"
+          }
+        },
+        {
+          "group": "org.thepavel",
+          "module": "spring-icomponent",
+          "version": {
+            "requires": "1.1.0"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.5.beta2-plain.jar",
+          "url": "spring-boot-starter-rabbit-rpc-to-request-dispatcher-0.0.5.beta2-plain.jar",
+          "size": 51099,
+          "sha512": "3665a56589b11d624bb3af9662c2ad450f3bdaca3405ffef6b10ff320e911ad99b23eeeb0157c6c168422e6f32bf24d7258527d4037cb892ea955e490b034ec6",
+          "sha256": "8a62b0a4bafc26d60930be6afc7a9d68e7af91e2d7630622cc20bf246d93d232",
+          "sha1": "ff6be766ec567c276433ad82d87baa8c9b501fca",
+          "md5": "c1dcbf73d1df59dde836f84073136ee7"
+        }
+      ]
+    }
+  ]
+}
