@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "kz.galamat",
+    "module": "convenient-rpc-interface",
+    "version": "0.0.3",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "convenient-rpc-interface-0.0.3.jar",
+          "url": "convenient-rpc-interface-0.0.3.jar",
+          "size": 11004,
+          "sha512": "d663c6253692ed875fbd4e86fab7dadbe37ab03440ff1af2e30d4211cdbaaf15f231ea27527ab2f089fa49650fe793370a5bd58fb6dc07d7932ca105b57bf972",
+          "sha256": "411891684f4e8bd5b2a6eea6bcd3f1282782c73a63d93ecefe3fd0e8acbdd03c",
+          "sha1": "a4d366001f8f38be19ac953e4429b2e253ec9a89",
+          "md5": "0fbd842fded0125a5935959667207f2c"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "convenient-rpc-interface-0.0.3.jar",
+          "url": "convenient-rpc-interface-0.0.3.jar",
+          "size": 11004,
+          "sha512": "d663c6253692ed875fbd4e86fab7dadbe37ab03440ff1af2e30d4211cdbaaf15f231ea27527ab2f089fa49650fe793370a5bd58fb6dc07d7932ca105b57bf972",
+          "sha256": "411891684f4e8bd5b2a6eea6bcd3f1282782c73a63d93ecefe3fd0e8acbdd03c",
+          "sha1": "a4d366001f8f38be19ac953e4429b2e253ec9a89",
+          "md5": "0fbd842fded0125a5935959667207f2c"
+        }
+      ]
+    }
+  ]
+}
