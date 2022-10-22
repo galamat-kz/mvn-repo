@@ -3,12 +3,13 @@
   <groupId>kz.galamat</groupId>
   <artifactId>convenient-rpc-client-rabbitmq</artifactId>
   <versioning>
-    <latest>0.0.1</latest>
-    <release>0.0.1</release>
+    <latest>0.0.2</latest>
+    <release>0.0.2</release>
     <versions>
       <version>0.0.1.afla</version>
       <version>0.0.1</version>
+      <version>0.0.2</version>
     </versions>
-    <lastUpdated>20221022132056</lastUpdated>
+    <lastUpdated>20221022133223</lastUpdated>
   </versioning>
 </metadata>
