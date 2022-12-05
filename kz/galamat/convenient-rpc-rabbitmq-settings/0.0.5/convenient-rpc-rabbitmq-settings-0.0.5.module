@@ -1,0 +1,69 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "kz.galamat",
+    "module": "convenient-rpc-rabbitmq-settings",
+    "version": "0.0.5",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.4"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "convenient-rpc-rabbitmq-settings-0.0.5-plain.jar",
+          "url": "convenient-rpc-rabbitmq-settings-0.0.5-plain.jar",
+          "size": 5940,
+          "sha512": "cf966e89eaa999efc533ff64f78542d21852c1b4550e004f0788e04db3acd2b9a9b13ee36fce05f621a3c2fef32eda1d363d33376ac91e61dcef6cf4138693f3",
+          "sha256": "09a861eed32e40a34150cece7cfbd0adb5638af1d7db8643f47a0976574e8936",
+          "sha1": "1eff8b7149c1b9fcc4f6f059cc3385544164bbb3",
+          "md5": "1b65c78c24e4934b6ced9da6e67912ac"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-amqp",
+          "version": {
+            "requires": "2.7.4"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "convenient-rpc-rabbitmq-settings-0.0.5-plain.jar",
+          "url": "convenient-rpc-rabbitmq-settings-0.0.5-plain.jar",
+          "size": 5940,
+          "sha512": "cf966e89eaa999efc533ff64f78542d21852c1b4550e004f0788e04db3acd2b9a9b13ee36fce05f621a3c2fef32eda1d363d33376ac91e61dcef6cf4138693f3",
+          "sha256": "09a861eed32e40a34150cece7cfbd0adb5638af1d7db8643f47a0976574e8936",
+          "sha1": "1eff8b7149c1b9fcc4f6f059cc3385544164bbb3",
+          "md5": "1b65c78c24e4934b6ced9da6e67912ac"
+        }
+      ]
+    }
+  ]
+}
