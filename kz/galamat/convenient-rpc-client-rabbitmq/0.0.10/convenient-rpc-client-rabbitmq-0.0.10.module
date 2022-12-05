@@ -27,11 +27,11 @@
         {
           "name": "convenient-rpc-client-rabbitmq-0.0.10-plain.jar",
           "url": "convenient-rpc-client-rabbitmq-0.0.10-plain.jar",
-          "size": 10556,
-          "sha512": "be85c05605eafb25b338f6b003aa8c6a70ebcb03ea3d43a36d2594709ccd235e96369242027fd26ef721148ad3f107cba03ae7e91b4ce62afd756bb2f460729c",
-          "sha256": "09d4b710e1b1766a3033bb290994547987639714dc28765220c84bb01d81f715",
-          "sha1": "e333505ebd65199ac31b56688da684595e9f762d",
-          "md5": "773dd69dc91761e524823f4ed661a26a"
+          "size": 10559,
+          "sha512": "6e63e15ce8d643a96c8d87e2c823eb9c78405c2b608e90b782f9cc9ba78e2078411ae50262798eb515a4bdd79dd6b3e271dfc91f8b08b5430b4d6cf291cc0618",
+          "sha256": "21ca6fc0dad77fd12a884015ef93db121eac6a5b98a545c1b4737112672b7f1f",
+          "sha1": "302ac8d58568eef2d6b5c24d0109a040186d466b",
+          "md5": "2e363d7dea096702569fc8bc5b8ddc4e"
         }
       ]
     },
@@ -99,11 +99,11 @@
         {
           "name": "convenient-rpc-client-rabbitmq-0.0.10-plain.jar",
           "url": "convenient-rpc-client-rabbitmq-0.0.10-plain.jar",
-          "size": 10556,
-          "sha512": "be85c05605eafb25b338f6b003aa8c6a70ebcb03ea3d43a36d2594709ccd235e96369242027fd26ef721148ad3f107cba03ae7e91b4ce62afd756bb2f460729c",
-          "sha256": "09d4b710e1b1766a3033bb290994547987639714dc28765220c84bb01d81f715",
-          "sha1": "e333505ebd65199ac31b56688da684595e9f762d",
-          "md5": "773dd69dc91761e524823f4ed661a26a"
+          "size": 10559,
+          "sha512": "6e63e15ce8d643a96c8d87e2c823eb9c78405c2b608e90b782f9cc9ba78e2078411ae50262798eb515a4bdd79dd6b3e271dfc91f8b08b5430b4d6cf291cc0618",
+          "sha256": "21ca6fc0dad77fd12a884015ef93db121eac6a5b98a545c1b4737112672b7f1f",
+          "sha1": "302ac8d58568eef2d6b5c24d0109a040186d466b",
+          "md5": "2e363d7dea096702569fc8bc5b8ddc4e"
         }
       ]
     }
