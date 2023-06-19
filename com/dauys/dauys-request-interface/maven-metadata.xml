@@ -3,8 +3,8 @@
   <groupId>com.dauys</groupId>
   <artifactId>dauys-request-interface</artifactId>
   <versioning>
-    <latest>0.0.2.c</latest>
-    <release>0.0.2.c</release>
+    <latest>0.0.2.d</latest>
+    <release>0.0.2.d</release>
     <versions>
       <version>0.0.1</version>
       <version>0.0.1.a</version>
@@ -12,7 +12,8 @@
       <version>0.0.2.a</version>
       <version>0.0.2.b</version>
       <version>0.0.2.c</version>
+      <version>0.0.2.d</version>
     </versions>
-    <lastUpdated>20230619113747</lastUpdated>
+    <lastUpdated>20230619114444</lastUpdated>
   </versioning>
 </metadata>
