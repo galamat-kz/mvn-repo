@@ -1,0 +1,60 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.dauys",
+    "module": "dauys-request-interface",
+    "version": "0.0.6",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "dauys-request-interface-0.0.6.jar",
+          "url": "dauys-request-interface-0.0.6.jar",
+          "size": 31640,
+          "sha512": "1de45ffa09964418c234acb5274d9ec54b900287c4215959594682f7b18a7b9b97629a5c40d3ac15be49eb7879b742e9178fcab4bf9a10ef699f8a27dcf2298b",
+          "sha256": "ab83e3fc141e607962a64828b68cfdfb32b948c1f1197e987637875fb86ce050",
+          "sha1": "4a780f38663c74762590a3637b5be4ec8f1bbb51",
+          "md5": "434034d65a7036bc5a408dc3e4b8a4b9"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "dauys-request-interface-0.0.6.jar",
+          "url": "dauys-request-interface-0.0.6.jar",
+          "size": 31640,
+          "sha512": "1de45ffa09964418c234acb5274d9ec54b900287c4215959594682f7b18a7b9b97629a5c40d3ac15be49eb7879b742e9178fcab4bf9a10ef699f8a27dcf2298b",
+          "sha256": "ab83e3fc141e607962a64828b68cfdfb32b948c1f1197e987637875fb86ce050",
+          "sha1": "4a780f38663c74762590a3637b5be4ec8f1bbb51",
+          "md5": "434034d65a7036bc5a408dc3e4b8a4b9"
+        }
+      ]
+    }
+  ]
+}
