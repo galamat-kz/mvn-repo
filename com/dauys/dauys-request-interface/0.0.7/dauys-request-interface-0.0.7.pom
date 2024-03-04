@@ -18,10 +18,5 @@
       <name>Yersin Mukay</name>
       <email>mukaiyersin@gmail.com</email>
     </developer>
-    <developer>
-      <id>yerlan.galamat</id>
-      <name>Yerlan Karakulov</name>
-      <email>karakulovyerlan@gmail.com</email>
-    </developer>
   </developers>
 </project>
