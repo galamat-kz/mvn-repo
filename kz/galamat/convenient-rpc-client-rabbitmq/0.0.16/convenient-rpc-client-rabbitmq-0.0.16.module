@@ -1,0 +1,111 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "kz.galamat",
+    "module": "convenient-rpc-client-rabbitmq",
+    "version": "0.0.16",
+    "attributes": {
+      "org.gradle.status": "release"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.5.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api"
+      },
+      "files": [
+        {
+          "name": "convenient-rpc-client-rabbitmq-0.0.16-plain.jar",
+          "url": "convenient-rpc-client-rabbitmq-0.0.16-plain.jar",
+          "size": 10732,
+          "sha512": "4d18996273c964325675362761d8acd199fb9dbd94e645cc4194c079863fef3a50a68d5e8e1679b67393ff74ff87a9bafdf6210a7ebd954837872f5a6da017b9",
+          "sha256": "dc0f2a21d02508eba053fa8d4dae3631823217c3365496a20b7d0f8aacc845e9",
+          "sha1": "3a992d2caa612b4afbd41a42de02ac41dd9ad5b5",
+          "md5": "ca1b47f00e7e729446359d71fddcd146"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime"
+      },
+      "dependencies": [
+        {
+          "group": "org.springframework",
+          "module": "spring-webmvc",
+          "version": {
+            "requires": "6.0.2"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-validation",
+          "version": {
+            "requires": "2.7.5"
+          }
+        },
+        {
+          "group": "org.springframework.boot",
+          "module": "spring-boot-starter-amqp",
+          "version": {
+            "requires": "2.7.5"
+          }
+        },
+        {
+          "group": "com.fasterxml.jackson.core",
+          "module": "jackson-databind",
+          "version": {
+            "requires": "2.14.0"
+          }
+        },
+        {
+          "group": "org.thepavel",
+          "module": "spring-icomponent",
+          "version": {
+            "requires": "1.1.0"
+          }
+        },
+        {
+          "group": "kz.galamat",
+          "module": "convenient-rpc-interface",
+          "version": {
+            "requires": "0.0.8"
+          }
+        },
+        {
+          "group": "kz.galamat",
+          "module": "convenient-rpc-rabbitmq-settings",
+          "version": {
+            "requires": "0.0.5"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "convenient-rpc-client-rabbitmq-0.0.16-plain.jar",
+          "url": "convenient-rpc-client-rabbitmq-0.0.16-plain.jar",
+          "size": 10732,
+          "sha512": "4d18996273c964325675362761d8acd199fb9dbd94e645cc4194c079863fef3a50a68d5e8e1679b67393ff74ff87a9bafdf6210a7ebd954837872f5a6da017b9",
+          "sha256": "dc0f2a21d02508eba053fa8d4dae3631823217c3365496a20b7d0f8aacc845e9",
+          "sha1": "3a992d2caa612b4afbd41a42de02ac41dd9ad5b5",
+          "md5": "ca1b47f00e7e729446359d71fddcd146"
+        }
+      ]
+    }
+  ]
+}
