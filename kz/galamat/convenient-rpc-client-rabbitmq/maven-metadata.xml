@@ -3,11 +3,11 @@
   <groupId>kz.galamat</groupId>
   <artifactId>convenient-rpc-client-rabbitmq</artifactId>
   <versioning>
-    <latest>0.0.16</latest>
-    <release>0.0.16</release>
+    <latest>0.0.17</latest>
+    <release>0.0.17</release>
     <versions>
-      <version>0.0.16</version>
+      <version>0.0.17</version>
     </versions>
-    <lastUpdated>20240919063859</lastUpdated>
+    <lastUpdated>20240920071447</lastUpdated>
   </versioning>
 </metadata>
